@@ -1,0 +1,10 @@
+html,
+body {
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+
+canvas {
+    display: block;
+}
